@@ -46,11 +46,5 @@ class Employee:
         print(f"department is {emp[4]}")
         print("=============================")
 
-# e=Employee("tamer","hagras",25,"cs",15000)
-# e.transfer("SE")
-# # e.fire()
-# e.show()
-# Employee.list_employees()
-
 
 
